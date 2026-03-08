@@ -14,6 +14,7 @@ note/
 ├── daily/             # 日常记录
 ├── templates/         # 笔记模板
 ├── scripts/           # 整理脚本
+├── system/            # 系统配置文档
 └── archive/           # 归档文件
 ```
 
